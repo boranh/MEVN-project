@@ -3,10 +3,10 @@ Tuesday, 13 July 2021 -Created
 
 main folder=>
 npm install
-
 npm run dev
-client folder=>
 
+
+client folder=>
 npm install
 npm run serve
 
